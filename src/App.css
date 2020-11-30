@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+.row{
+  margin: auto;
+  
+}
+.movie-item{
+ margin: auto;
+ margin-top: 50px;
+}
+.page-footer{
+  background-color: rgb(33, 37, 41);
+
+}
+.text{
+  color: gray;
+}
+body{
+  background-color: black;
+}
+a,.color{
+  color: white;
+}
+img{
+  width: 280px;
+  height: 370px;
+}
+
+footer{
+  margin-top: 50px;
+}
